@@ -1,0 +1,14 @@
+In medicine and anatomy, the special senses are the senses that have specialized organs devoted to them:
+
+    vision (the eye)
+    hearing and balance (the ear, which includes the auditory system and vestibular system)
+    smell (the nose)
+    taste (the tongue)
+
+The distinction between special and general senses is used to classify nerve fibers running to and from the central nervous system – information from special senses is carried in special somatic afferents and special visceral afferents. In contrast, the other sense, touch, is a somatic sense which does not have a specialized organ but comes from all over the body, most noticeably the skin but also the internal organs (viscera). Touch includes mechanoreception (pressure, vibration and proprioception), pain (nociception) and heat (thermoception), and such information is carried in general somatic afferents and general visceral afferents.[1]
+Vision
+Main article: Visual perception
+
+Visual perception is the ability to interpret the surrounding environment using light in the visible spectrum reflected by the objects in the environment. The resulting perception is also known as visual perception, eyesight, sight, or vision (adjectival form: visual, optical, or ocular). The various physiological components involved in vision are referred to collectively as the visual system.
+
+The visual system in animals allows individuals to assimilate information from their surroundings. The act of seeing starts when the cornea and then the lens of the eye focuses light from its surroundings onto a light-sensitive membrane in the back of the eye, called the retina. The retina is actually part of the brain that is isolated to serve as a transducer for the conversion of light into neuronal signals. Based on feedback from the visual system, the lens of the eye adjusts its thickness to focus light on the photoreceptive cells of the retina, also known as the rods and cones, which detect the photons of light and respond by producing neural impulses. These signals are processed via complex feedforward and feedback processes by different parts of the brain, from the retina upstream to central ganglia in the brain. 

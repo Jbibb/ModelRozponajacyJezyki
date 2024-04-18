@@ -1,0 +1,21 @@
+Wiedza – termin używany powszechnie, istnieje wiele definicji tego pojęcia. Nowa Encyklopedia Powszechna definiuje wiedzę jako „ogół wiarygodnych informacji o rzeczywistości wraz z umiejętnością ich wykorzystywania”.
+Definicja klasyczna
+
+Klasyczną definicję wiedzy podał Platon w dialogu Teajtet, gdzie Sokrates w rozmowie z Teajtetem dochodzi do wniosku, że wiedza to prawdziwe, uzasadnione przekonanie. Wyróżnia się w tym ujęciu następujące trzy elementy wiedzy:
+
+    przekonania, sądy w sensie logicznym
+    uzasadnienie, przekonanie jest uzasadnione
+    prawdziwość, przekonanie jest prawdziwe
+
+Podział wiedzy
+
+Arystoteles wprowadza podział na wiedzę teoretyczną i praktyczną[potrzebny przypis]. Jeśli przeczytaliśmy w książce, że najszybszym stylem pływackim jest kraul i zgadzamy się z przytoczoną argumentacją, to jest to przykład potocznie rozumianej nabytej wiedzy teoretycznej (lub zaakceptowanej informacji). Z posiadania tej wiedzy/informacji nie wynika jednak, że potrafimy sami pływać tym stylem. Aby się tego nauczyć, czyli posiąść praktyczną wiedzę polegającą na umiejętności pływania kraulem musimy się najpierw dowiedzieć, jakie należy wykonywać ruchy w trakcie pływania, a następnie przejść dość żmudną, praktyczną lekcję wykonywania tych ruchów w wodzie własnymi kończynami.
+Kryterium doświadczenia empirycznego
+
+    wiedza (a priori) jest niezależna od zmysłów i dotyczy prawd „absolutnych” lub uniwersalnych jakimi są prawa logiki, prawa matematyki.
+    wiedza (a posteriori) jest wiedzą nabytą poprzez zmysły i jej prawdziwość może być obalona poprzez następne obserwacje.
+
+Kryterium charakteru wiedzy
+
+    propozycjonalna – wiedza że np. wiem, że słońce świeci
+    habitualna – wiedza jak, umiejętność np. wiem jak ugotować obiad

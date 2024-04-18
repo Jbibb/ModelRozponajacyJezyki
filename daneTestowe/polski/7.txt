@@ -1,0 +1,8 @@
+Mechanika płynów (ang. fluid mechanics) – dział mechaniki ośrodków ciągłych analizujący równowagę i ruch płynów[1]. Rozwiązaniem zagadnień mechaniki płynów zwykle jest określenie własności płynu (takich jak gęstość, temperatura) i własności danego przepływu (podanie pola prędkości, ciśnienia), w zależności od współrzędnych przestrzennych i czasu.
+Założenia
+	Tę sekcję należy dopracować:
+od 2016-02 → poprawić styl – powinien być encyklopedyczny.
+Dokładniejsze informacje o tym, co należy poprawić, być może znajdują się w dyskusji tej sekcji.
+Po wyeliminowaniu niedoskonałości należy usunąć szablon {{Dopracować}} z tej sekcji.
+
+Tak jak każdy model matematyczny rzeczywistego świata, mechanika płynów tworzy pewne upraszczające założenia co do badanych ośrodków. Te założenia są odzwierciedlane w równaniach, które muszą się zgodzić, by uzyskany opis odpowiadał rzeczywistości. Przykładowo, rozważając nieściśliwy płyn w przestrzeni trójwymiarowej, przy założeniu zachowania masy, wynika że dla każdej np. kulistej przestrzeni o niezmiennym kształcie, ilość masy przechodząca z zewnątrz do wewnątrz musi być taka sama, jak ilość masy przechodzącej w odwrotną stronę. (Inaczej, masa wewnątrz pozostaje stała, podobnie jak masa na zewnątrz). Warunek ten można wyrazić równaniem całkowym tej przestrzeni. 

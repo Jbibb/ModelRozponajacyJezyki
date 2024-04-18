@@ -1,0 +1,14 @@
+Energie je skalární fyzikální veličina, která popisuje schopnost hmoty (látky nebo pole) konat práci. Energie je slovo vytvořené fyziky v polovině devatenáctého století z řeckého ἐνέργεια (energeia; tj. vůle, síla či schopnost k činům). Energie je popsána stavovou veličinou a může mít různé formy. Existuje např. kinetická energie (tu lze spočítat dle formule Ek = ½ m·v2) a konfigurační (polohová či potenciální) energie (daná vzájemnou polohou a přitahováním nebo odpuzováním částic, např. gravitací nebo magnetismem).
+
+Zákon zachování energie říká, že energie se může měnit z jednoho druhu na jiný, nelze ji vytvořit ani zničit, v izolované soustavě však její celkové množství zůstává stejné. Proto součet velikosti práce, které těleso nebo pole vykoná, a vydaného tepla se rovná úbytku jeho energie, která se přemění v jinou formu.
+
+Energie (tzv. klidová energie) přísluší též každému objektu s klidovou hmotností bez ohledu na jeho pohybový stav a působení silových polí. Přeměna této energie na jiné formy bývá nesprávně označována jako přeměna hmoty (hmotnosti) v energii.
+
+Lidstvo pravděpodobně nezná všechny možné formy (druhy) energie. Předpokládá se, že většina vesmíru je tvořena dnes zcela neznámou formou hmoty, která nese přes 70 % energie. Prozatím se jim říká „temná hmota“ a „temná energie“. Pokud to není nějaká forma hmoty, znamenalo by to podstatnou změnu v představách o stavbě vesmíru a pojmech hmota a energie.
+
+Množství energie spotřebované za jednotku času udává veličina příkon, poměr vydané a dodané energie udává veličina účinnost.
+Značení a jednotky
+
+Jako symbol energie se používá písmeno E.
+
+Hlavní jednotka energie, práce i tepla v soustavě SI je joule, značka jednotky: J. Jedná se o odvozenou jednotku, vztah k základním jednotkám lze vyjádřit rovností 1 J = 1 kg·m2·s−2. Je definován jako práce, kterou vykoná síla 1 N působící po dráze 1 m. Ekvivalentem jednotky joule je wattsekunda (značka Ws), používaná v energetice a silové elektrotechnice pro elektrickou práci či elektrickou energii. 

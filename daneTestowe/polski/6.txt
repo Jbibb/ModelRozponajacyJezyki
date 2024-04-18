@@ -1,0 +1,8 @@
+Liczba – pojęcie abstrakcyjne, jedno z najczęściej używanych w matematyce. Pierwotnie liczby służyły do porównywania wielkości zbiorów przedmiotów[1] (liczby naturalne), później także wielkości ciągłych (miary i wagi), obecnie w matematyce są rozważane jako twory abstrakcyjne, w oderwaniu od ewentualnych fizycznych zastosowań.
+
+W matematyce określenie „liczba” bez żadnego przymiotnika jest nieścisłe, gdyż matematycy nie definiują „liczb”, lecz „liczby naturalne”, „liczby całkowite” itp. Poszczególne rodzaje liczb są definiowane za pomocą aksjomatów lub konstruowane z bardziej podstawowych pojęć, jak zbiór, czy typy liczb prostsze od konstruowanego.
+Zastosowania
+
+Najprostsze rodzaje liczb, jak liczby naturalne czy rzeczywiste, są w powszechnym użyciu jako oznaczenia ilości przedmiotów (np. pięć jabłek) lub mnożnika pewnej jednostki miary (np. dwa i pół metra). Zapisy liczb naturalnych są używane także jako identyfikatory, np. numery telefonów, dróg, PESEL, ISBN.
+
+W matematyce pojęcie liczby zostało rozszerzone z poznawanych w szkole podstawowej liczb naturalnych, wymiernych i rzeczywistych na takie abstrakcje, jak liczby zespolone, p-adyczne, kwaterniony, czy sedeniony. Liczby zespolone okazały się przydatne w wielu dziedzinach od grafiki komputerowej[a], przez elektronikę[b], teorię płynów, aż do fizyki kwantowej[c] i teorii względności. Kwaterniony znalazły zastosowanie w grafice trójwymiarowej do prostego obliczania obrotów w przestrzeni (zob. współrzędne jednorodne). Liczby p-adyczne znalazły zastosowanie w kryptografii. 

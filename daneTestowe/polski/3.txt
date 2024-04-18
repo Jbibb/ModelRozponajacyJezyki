@@ -1,0 +1,11 @@
+Sygnały znajdują zastosowanie w następujących dziedzinach:
+
+    astronomia: sygnały przenoszą informację o naturze zjawisk pozaziemskich. Najczęściej bada się impulsy świetlne i radiowe emitowane przez obiekty pozaziemskie. Na ich podstawie można powiedzieć z jakim obiektem lub zjawiskiem mamy do czynienia, jaka jest jego struktura (badanie widma), jak szybko porusza się, jakie jest jego położenie i kierunek ruchu;
+    ekonomia: sygnały niosą informację o zjawiskach ekonomicznych badanych w określonym przedziale czasowym, np. podaż, popyt, udział w rynku;
+    elektronika: sygnały wykorzystywane są do badania zachowania (odpowiedzi) układów elektronicznych, pomiarów zmieniających się wartości napięć elektrycznych, zmieniających się wartości prądu;
+    medycyna: sygnały wykorzystywane są do mierzenia funkcji życiowych takich jak: puls, czynności oddechowe, rytm serca, czynności układu nerwowego i innych, których działanie można badać za pomocą takich przyrządów jak: EKG, USG itp.;
+    motoryzacja: sygnały wykorzystywane są np. do sterowania systemami wtrysku paliwa, ABS;
+    przemysł: sygnały służą do sterowania różnego rodzaju urządzeniami przemysłowymi, takimi jak obrabiarki, piece, roboty, a ponadto umożliwiają przenoszenie informacji o stanie urządzenia, co jest dość powszechnie wykorzystywane do zdalnego nadzorowania pracy bezobsługowych urządzeń pomiarowych, systemów monitoringu itp.;
+    sejsmologia: sygnały (wstrząsy) umożliwiają badanie energii wyzwalanej przez masy górotworu, dzięki czemu można odpowiednio wcześniej przewidzieć zachowanie się obserwowanych obiektów, ostrzec przed grożącymi niebezpieczeństwami itp,;
+    telekomunikacja: sygnały są nośnikiem informacji przekazywanych na dowolne odległości i podobnie jak w zastosowaniach przemysłowych mogą służyć również do przekazywania informacji sterujących pracą urządzeń telekomunikacyjnych, takich jak: centrale telefoniczne, modemy, faksy itp.;
+    wojsko: sygnały znajdują zastosowanie m.in. w systemach naprowadzania i nawigacji, systemach bezpieczeństwa, systemach identyfikacji, systemach łączności, systemach zdalnego sterowania bezzałogowymi maszynami zwiadowczymi i bojowymi oraz wielu innych systemów, które wspierają działania określonych związków taktycznych na polu walki.

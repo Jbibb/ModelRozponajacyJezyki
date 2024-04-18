@@ -1,0 +1,18 @@
+Elektrofony, elektroniczne instrumenty muzyczne – instrumenty muzyczne, w których źródłem dźwięku jest drgająca membrana głośnika[1][2][3], a drgania są generowane lub przekształcane na drodze elektrycznej[4][5].
+
+Elektrofonami nie są tradycyjne instrumenty akustyczne z dodanymi mikrofonami, przetwornikami[6][7] lub wyposażone we wspomagające komponenty zasilane prądem elektrycznym[3].
+Budowa
+Schemat budowy elektrofonu[8][2]
+
+Instrumenty elektroniczne zbudowane są z pięciu podstawowych zespołów[8][9][2]:
+
+    generator elektromechaniczny (mechaniczny z przetwornikiem) lub elektryczny wytwarzający drgania,
+    modyfikator – układ kształtujący barwę dźwięku,
+    wzmacniacz – układ wzmacniający natężenie dźwięku,
+    głośnik lub zestaw głośnikowy przetwarzający drgania elektryczne na falę akustyczną,
+    układ sterujący (np. klawiatura) umożliwiający wykonawcy wydobycie dźwięku o określonej wysokości i o określonym czasie trwania.
+
+Podział
+Sekwencer analogowy
+
+Powszechnie stosowanym kryterium podziału elektrofonów jest rodzaj generatora drgań: mechaniczny w instrumentach elektromechanicznych i elektryczny w instrumentach elektronicznych[1][2][7]. Z elektrofonów elektromechanicznych wydziela się niekiedy grupę instrumentów elektroakustycznych[3][10]. 

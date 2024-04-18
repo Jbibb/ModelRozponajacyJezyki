@@ -1,0 +1,10 @@
+In the tree model of historical linguistics, a proto-language is a postulated ancestral language from which a number of attested languages are believed to have descended by evolution, forming a language family. Proto-languages are usually unattested, or partially attested at best. They are reconstructed by way of the comparative method.[1]
+
+In the family tree metaphor, a proto-language can be called a mother language. Occasionally, the German term Ursprache (from Ur- "primordial, original", and Sprache "language", pronounced [ˈuːɐ̯ʃpʁaːxə] ⓘ) is used instead. It is also sometimes called the common or primitive form of a language (e.g. Common Germanic, Primitive Norse).[1]
+
+In the strict sense, a proto-language is the most recent common ancestor of a language family, immediately before the family started to diverge into the attested daughter languages. It is therefore equivalent with the ancestral language or parental language of a language family.[2]
+
+Moreover, a group of languages (such as a dialect cluster) which are not considered separate languages (for whichever reasons) may also be described as descending from a unitary proto-language. 
+ypically, the proto-language is not known directly. It is by definition a linguistic reconstruction formulated by applying the comparative method to a group of languages featuring similar characteristics.[3] The tree is a statement of similarity and a hypothesis that the similarity results from descent from a common language.
+
+The comparative method, a process of deduction, begins from a set of characteristics, or characters, found in the attested languages. If the entire set can be accounted for by descent from the proto-language, which must contain the proto-forms of them all, the tree, or phylogeny, is regarded as a complete explanation and by Occam's razor, is given credibility. More recently, such a tree has been termed "perfect" and the characters labelled "compatible". 

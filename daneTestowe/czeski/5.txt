@@ -1,0 +1,12 @@
+Chemická energie je energie látek, která je obsažena v jejich vnitřní struktuře. Je vázaná ve formě chemických vazeb mezi atomy v molekule a lze ji uvolňovat nebo naopak vázat pomocí chemických reakcí.
+
+Při anorganických chemických reakcích dochází k přeměně jedné látky na druhou zánikem původních a vznikem nových chemických vazeb. Pokud mají vzniklé látky vyšší chemickou energii, jedná se o reakce endotermické. Pokud mají vzniklé látky nižší chemickou energii, jedná se o reakce exotermické.
+
+Při organických reakcích v živých organismech probíhá velké množství chemických reakcí, které spotřebovávají nebo uvolňují chemickou energii. Při přeměně složitých látek na jednodušší dochází k jejich rozkladu (disimilaci), chemická energie se zpravidla uvolňuje a jedná se o reakce exergonické. Při tvorbě složitých látek z jednodušších dochází k jejich syntéze (asimilaci), chemická energie se zpravidla spotřebovává a jedná se reakce endergonické.
+
+Chemická energie se může pomocí chemických reakcí přeměnit na jiné formy energie. Například na energii tepelnou, kinetickou (pohybovou), potenciální (polohovou), aktivační a další. Při tom vždy platí První termodynamický zákon neboli zákon zachování energie, který říká, že energie izolované soustavy je konstantní, nevzniká ani nezaniká, pouze se může přeměnit jedna forma energie na jinou.
+Chemická energie a chemická vazba
+
+Chemická vazba je silová interakce poutající navzájem slučující se atomy a vede ke vzniku molekuly. Vzniklá molekula má potom stabilnější uspořádání a nižší energii, než měly původní atomy. Základem všech vazeb je společné sdílení nebo předávání vazebných elektronů příslušnými atomy.
+
+Chemická energie makroskopicky popisuje energii látek, která je vytvářena chemickými vazbami mezi atomy v molekulách. Lze ji rozdělit na kinetickou energii elektronů a potenciální energii elektromagnetické interakce elektronů a atomových jader. Je to vnitřní energie, stejně jako tepelná energie a jaderná energie. 

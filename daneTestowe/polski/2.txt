@@ -1,0 +1,30 @@
+Klasyfikacja dziedziny elektroniki
+
+    Elektronika powszechnego użytku (w tym programowalne układy cyfrowe, multimedia, systemy nadzoru wizyjnego)
+    Elektronika przemysłowa (DSP, w tym energoelektronika, elektroniczne układy technologiczne, systemy sterowania)
+    Radioelektronika (układy elektroniki morskiej, radiokomunikacja i technika radarowa)
+    Mikroelektronika, mikrosystemy, fotonika i nanotechnologie
+    Akustyka, elektroakustyka, systemy estradowe i inżynieria dźwięku
+
+Typy układów elektronicznych
+
+W zależności od interpretacji znaczenia przetwarzanego sygnału układy dzieli się na:
+
+    układy elektroniczne analogowe – opisuje je technika analogowa, analogowe przetwarzanie sygnałów
+        liniowe,
+        nieliniowe (np. generator drgań, pętla fazowa, modulator, demodulator, prostownik, stabilizator),
+    układy elektroniczne cyfrowe – opisuje je technika cyfrowa i oparta na niej technika mikroprocesorowa
+        układy cyfrowe kombinacyjne - stan wyjść zależy tylko od bieżących stanów wejść,
+        układy cyfrowe sekwencyjne - stan wyjść zależy od stanu obecnego wejść oraz wejść w stanach poprzednich.
+
+Elementy elektroniki
+
+Do konstrukcji urządzeń elektronicznych służą różnorodne przyrządy i układy:
+
+    elementy aktywne: półprzewodnikowe (tranzystory, tyrystory, układy scalone, diody półprzewodnikowe itp.), lampy próżniowe (diody, triody, pentody itd.)
+    elementy bierne: rezystory, kondensatory, cewki.
+    elementy akustoelektroniczne: filtry, rezonatory, linie opóźniające, czujniki itp.
+    elementy optoelektroniczne: lasery, światłowody, detektory promieniowania itp.
+    elementy fotoniczne (łączące elementy akustoelektroniczne z optoelektronicznymi): modulatory, wzmacniacze, detektory itp.
+
+Elementy elektroniczne często montuje się z użyciem obwodów drukowanych. 
